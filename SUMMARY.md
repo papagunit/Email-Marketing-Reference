@@ -6,9 +6,9 @@
 * [Technical Protocols](protocols.md)
 * Laws
 * Spam regulations
-* Designing an Email
-* Creating a Template
-* Coding an Email
+* [Designing an Email](designing-an-email.md)
+* [Creating a Template](creating-a-template.md)
+* [Coding an Email](coding-an-email.md)
 * Responsiveness
 * Email Testing
 * ESP\/MAPs
