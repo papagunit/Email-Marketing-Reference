@@ -13,7 +13,7 @@
 * Email Testing
 * ESP\/MAPs
 * Certifications
-* Segmentation
+* Lists\/Segmentation
 * [Call to Actions \(CTAs\)](call-to-actions.md)
 * Deliverability
 * Known Email Bugs
@@ -44,4 +44,18 @@
 * Email on Acid
 * Future of Email Marketing
 * Where Email Marketing Fits within Marketing Overall
+* Interactivity: Videos
+* Elements
+* [GIFs](interactivity-gifs.md)
+* Project Management
+* ESP Specific Code
+* Inlining CSS
+* Rules of Thumb
+* Branding
+* Best Practice
+* Generally Agreed Upon Templates, Boilerplates, Snippets
+* Credits
+* Marketing vs Transactional
+* Subject Lines and Preheaders
+* Email Development vs Web Development
 
