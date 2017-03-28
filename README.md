@@ -1,3 +1,12 @@
-# My Awesome Book
+# I'm still thinking about making this
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+It could take a long time, but I could get some preliminary, bare bones, outline going pretty quick. Let me know if you're interested in contributing. I don't plan on a lot of it being original content, just copied or adapted from various updated resources online. Not looking to reinvent the wheel, just compile the best, comprehensively.
+
+
+
+devon@devonguerrero.com
+
+
+
+Thanks!
+
