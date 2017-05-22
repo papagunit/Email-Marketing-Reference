@@ -30,7 +30,7 @@
 * Marketing Basics
 * Related Positions
 * Resources
-* Calculating ROI
+* [Calculating your Return On Investment](calculating-roi.md)
 * Estimating\/Quoting a Project
 * Requirements Gathering Checklist
 * Key Metrics
