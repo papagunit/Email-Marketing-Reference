@@ -34,7 +34,7 @@
 * Estimating\/Quoting a Project
 * Requirements Gathering Checklist
 * Key Metrics
-* Typography
+* [Typography](typography.md)
 * A\/B Testing
 * Subscription methods
 * Buttons
