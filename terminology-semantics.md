@@ -1,4 +1,4 @@
-Email \(RFCXXX, simply referred to here as message\) - 
+Email \(RFCXXX, simply referred to here as message\) -
 
 Email Marketing -
 
@@ -6,7 +6,7 @@ Transactional Email -
 
 Marketing Email -
 
-Marketing Automation Platform \(MAP\) -
+Marketing Automation Platform \(MAP\) - 
 
 Best Practice -
 
