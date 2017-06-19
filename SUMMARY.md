@@ -63,4 +63,6 @@
 * [Technical Specifications](technical-specifications.md)
 * [Relevant IETF RFCs](relevant-ietf-rfcs.md)
 * Other Technical Specifications
+* Email Engagement Tracking
+* Email Link Tracking and UTMs
 
