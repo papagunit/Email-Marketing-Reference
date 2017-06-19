@@ -43,19 +43,20 @@
 * Email Clients
 * Email on Acid
 * Future of Email Marketing
-* Where Email Marketing Fits within Marketing Overall
+* [Where Email Marketing Fits within Marketing Overall](where-email-marketing-fits-within-marketing-overall.md)
 * Interactivity: Videos
 * Elements
 * [GIFs](interactivity-gifs.md)
 * Project Management
 * ESP Specific Code
-* Inlining CSS
+* [Inlining CSS](inlining-css.md)
 * Rules of Thumb
 * Branding
 * Best Practice
-* Generally Agreed Upon Templates, Boilerplates, Snippets
+* [Generally Agreed Upon Templates, Boilerplates, Snippets](generally-agreed-upon-templates-boilerplates-snippets.md)
 * Credits
 * Marketing vs Transactional
 * Subject Lines and Preheaders
 * Email Development vs Web Development
+* [Terminology \(Semantics\)](terminology-semantics.md)
 
