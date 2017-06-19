@@ -59,4 +59,6 @@
 * Subject Lines and Preheaders
 * Email Development vs Web Development
 * [Terminology \(Semantics\)](terminology-semantics.md)
+* Email Address Validation
+* [Relevant IETF RFCs](relevant-ietf-rfcs.md)
 
