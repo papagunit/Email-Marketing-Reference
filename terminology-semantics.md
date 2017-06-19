@@ -28,11 +28,9 @@ Customer Relationship Management \(CRM\) -
 
 Email Developer
 
+## Crap Buzzwords
 
+Growth Hacking/Growth Marketing -
 
-Crap Buzzwords
-
-Growth Hacking/Growth Marketing - 
-
-
+Email Blast/Batch and Blast - 
 
