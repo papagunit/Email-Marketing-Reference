@@ -18,7 +18,7 @@
 * [Deliverability](deliverability.md)
 * Known Email Bugs
 * Diagnosing your Email Bugs
-* Images
+* [Images](images.md)
 * Tools of the Trade
 * Optimizing for Outlook
 * [Dynamic Services](dynamic-services.md)
