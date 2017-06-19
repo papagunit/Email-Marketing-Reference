@@ -6,7 +6,7 @@ Transactional Email -
 
 Marketing Email -
 
-Marketing Automation Platform \(MAP\) - Traditionally an online service provided through the browser with a user friendly interface, featuring graphical elements with drag and drop capabilities, that abstracts many typical tasks Email Marketers typically use on a daily basis, without the need to code campaigns or directly interact with the SMTP. They typically also provide email asset management, image and file hosting, a contact database with subscription management, visualizations and reporting, strategic segmentation of contacts, dynamic or personalized messaging within emails, email tracking, website tracking and personalization, landing page hosting and tracking, 
+Marketing Automation Platform \(MAP\) - Traditionally an online service provided through the browser with a user friendly interface, featuring graphical elements with drag and drop capabilities, that abstracts many typical tasks Email Marketers typically use on a daily basis, without the need to code campaigns or directly interact with the SMTP. They typically also provide email asset management, image and file hosting, a contact database with subscription management, visualizations and reporting, strategic segmentation of contacts, dynamic or personalized messaging within emails, email tracking, website tracking and personalization, landing page hosting and tracking, and ways to track and execute upon contact changes within the database based upon tracked behaviors or changes sent from the CRM.
 
 Best Practice -
 
@@ -19,4 +19,6 @@ Email Service/Email Provider \(simply referred to here as Provider\) - The servi
 Email Client - Include the actual interface that the user interacts with, which manages the email messages, and chiefly influences the display of each message through the subject line, pre-header, parsing, stripping, and rendering.
 
 Campaign -
+
+CRM - 
 
