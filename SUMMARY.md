@@ -62,4 +62,5 @@
 * Email Address Validation
 * [Technical Specifications](technical-specifications.md)
 * [Relevant IETF RFCs](relevant-ietf-rfcs.md)
+* Other Technical Specifications
 
