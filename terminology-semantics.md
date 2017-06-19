@@ -20,5 +20,5 @@ Email Client - Include the actual interface that the user interacts with, which 
 
 Campaign -
 
-Customer Relationship Management \(CRM\)/Contact Management System \(CMS\) -
+Customer Relationship Management \(CRM\) - 
 
