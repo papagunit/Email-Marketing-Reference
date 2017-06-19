@@ -11,7 +11,7 @@
 * [Coding an Email](coding-an-email.md)
 * Responsiveness
 * Email Testing
-* ESP\/MAPs
+* [ESP\/MAPs](espmaps.md)
 * Certifications
 * Lists\/Segmentation
 * [Call to Actions \(CTAs\)](call-to-actions.md)
