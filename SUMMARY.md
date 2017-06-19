@@ -15,7 +15,7 @@
 * Certifications
 * Lists\/Segmentation
 * [Call to Actions \(CTAs\)](call-to-actions.md)
-* Deliverability
+* [Deliverability](deliverability.md)
 * Known Email Bugs
 * Diagnosing your Email Bugs
 * Images
