@@ -60,5 +60,6 @@
 * Email Development vs Web Development
 * [Terminology \(Semantics\)](terminology-semantics.md)
 * Email Address Validation
+* [Technical Specifications](technical-specifications.md)
 * [Relevant IETF RFCs](relevant-ietf-rfcs.md)
 
