@@ -1,6 +1,6 @@
-Filetypes Supported
+## File types Supported
 
-Compression Tools
+## Compression Tools
 
 compressimage.toolur.com/
 
@@ -10,5 +10,9 @@ compressimage.toolur.com/
 
 [https://tinypng.com/](https://tinypng.com/) - Max 5mb, PNG and JPG
 
-http://compressnow.com/ - Max 9mb
+[http://compressnow.com/](http://compressnow.com/) - Max 9mb
+
+## Dealing with GIFs
+
+
 
