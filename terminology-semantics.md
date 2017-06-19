@@ -1,4 +1,6 @@
-Email \(RFCXXX, simply referred to here as message\) -
+## General
+
+Email \(as defined in RFCXXX, simply referred to here as "message"\) -
 
 Email Marketing -
 
@@ -20,5 +22,9 @@ Email Client - Include the actual interface that the user interacts with, which 
 
 Campaign -
 
-Customer Relationship Management \(CRM\) - 
+Customer Relationship Management \(CRM\) -
+
+## Business Roles
+
+Email Developer
 
