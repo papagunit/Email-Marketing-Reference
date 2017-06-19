@@ -62,7 +62,7 @@
 * Email Address Validation
 * [Technical Specifications](technical-specifications.md)
 * [Relevant IETF RFCs](relevant-ietf-rfcs.md)
-* Other Technical Specifications
+* [Other Technical Specifications](other-technical-specifications.md)
 * Email Engagement Tracking
 * Email Link Tracking and UTMs
 
