@@ -30,7 +30,7 @@ Email Developer
 
 ## Crap Buzzwords
 
-Growth Hacking/Growth Marketing - Typically consists of low budget/guerrilla marketing tactics which sometimes employ unethical methods to acquiring/harvesting/generating lead emails, ultimately cold emailing.
+Growth Hacking/Growth Marketing - Typically consists of low budget/guerrilla marketing tactics which sometimes employ unethical methods to acquiring/harvesting/generating lead emails, ultimately cold emailing. While it may or may not violate CAN-SPAM, it's difficult to prosecute these kinds of people, as some methods fall within a grey area.
 
 Email Blast/Batch and Blast -
 
