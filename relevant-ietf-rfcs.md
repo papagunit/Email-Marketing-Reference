@@ -6,5 +6,9 @@
 
 [https://tools.ietf.org/html/rfc6686](https://tools.ietf.org/html/rfc6686)
 
-https://datatracker.ietf.org/doc/rfc7208/
+[https://datatracker.ietf.org/doc/rfc7208/](https://datatracker.ietf.org/doc/rfc7208/)
+
+https://tools.ietf.org/html/rfc7489
+
+https://tools.ietf.org/html/rfc5617
 
