@@ -34,7 +34,15 @@ Email Marketing Coordinator
 
 Email Designer
 
+Marketing Automation
 
+Demand Generation
+
+Marketing Engineer
+
+Revenue Engineer
+
+Lead Generation
 
 ## Crap Buzzwords
 
