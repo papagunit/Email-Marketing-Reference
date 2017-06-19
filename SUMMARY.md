@@ -38,7 +38,7 @@
 * A\/B Testing
 * Subscription methods
 * Buttons
-* Outside the Scope of this guide
+* [Outside the Scope of this guide](outside-the-scope-of-this-guide.md)
 * Development Resources\/Assistance
 * Email Clients
 * Email on Acid
