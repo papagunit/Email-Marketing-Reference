@@ -2,7 +2,7 @@ What is Deliverability?
 
 Why is Deliverability a subject within itself?
 
-Because it directly affects performance, and contains so many proprietary and changing moving parts with an infinite combination of possibile issues, deliverability is an important topic within email marketing.
+Because it directly affects performance, and contains so many proprietary and changing moving parts with an infinite combination of possible issues, deliverability is an important topic within email marketing.
 
 Best Practices
 
