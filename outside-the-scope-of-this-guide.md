@@ -8,5 +8,5 @@ Web Development
 
 Landing Pages
 
-
+Buying email lists - just don't do it, please. It's not ethical.
 
