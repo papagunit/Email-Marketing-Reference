@@ -76,5 +76,9 @@ Most mature MAPs offer a drag and drop flowchart-like interface to design campai
 
 ## 12. Campaign Flow Testing
 
+## 13. Final Approval
+
+## 14. Scheduling
+
 
 
