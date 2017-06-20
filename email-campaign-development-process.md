@@ -16,7 +16,9 @@ As the discussions continue, the idea should move from an abstract concept to so
 
 [Requirements Elicitation](https://en.wikipedia.org/wiki/Requirements_elicitation), or "requirements gathering" comes from the [software engineering](http://searchsoftwarequality.techtarget.com/feature/Use-elicitation-techniques-to-discover-software-requirements) and [business analysis](http://www.modernanalyst.com/Resources/Articles/tabid/115/ID/1427/An-Overview-of-Requirements-Elicitation.aspx) world. However, the basic concepts apply well to email development. In marketing, because there are many ways to go about one campaign, it's important to understand exactly what the executives, customers, and your own team want to see. No, we don't need to have focus groups, surveys, workshops, or analysis \(if you have time for that great, but that should be part of your overall yearly marketing plan\). But what is important is that everyone is on the same page about what will be sent. To make the process go faster, and to reduce the need for additional meetings, it's important to get the following questions answered. In fact, I'll provide my own Word document that includes the following:
 
-* Campaign Name - for internal use
+#### General
+
+* **Campaign Name** - for internal use
 * Campaign Start/Go Live - What date and time should the campaign be executed on? This gives an idea for when the campaign development should be completed by.
 * Campaign End - When should we stop sending emails? When should we stop collecting metrics on emails sent?
 * Completion Date - When does the whole campaign need to be approved, tested, and completed by? Ideally a couple days before the Start date to give slack or wiggle room for unforeseen roadblocks.
@@ -26,9 +28,29 @@ As the discussions continue, the idea should move from an abstract concept to so
 * How will success be measured - In the end, how will we determine if the campaign was a success? [What metrics will we look at](https://www.klipfolio.com/blog/6-must-have-email-marketing-metrics), and what [KPIs](https://en.wikipedia.org/wiki/Performance_indicator) will we focus on?
 * Marketing, Transactional, or both - Legally \(CAN-SPAM\), can the emails in this campaign be considered marketing or transactional? This will greatly influence the messaging and layout.
 * Hours/days needed to complete - Give your best guess, but this can be difficult to measure initially. If you're using a project management software, this might be easier.
-* Call to actions - What are we asking the end user to do?
+* Call to actions - What are we asking the end user to do? Give us a call, click a link, fill out a landing page, purchase a specific widget, etc.
 * Measurement of ROI - How can we justify the costs of this campaign?
 * Potential roadblocks - Off the bat, what concerns do you recognize that could impede the campaign? Let's address them now before we get too invested.
 
+Emails
 
+Copy Elements
+
+Graphic Elements
+
+Segmentations
+
+Landing Pages
+
+Phone Numbers
+
+UTM/Tracking Parameters
+
+Future Improvement Expectations
+
+Reports and Analysis, Outcomes, Performance Review - Post Production
+
+Flowchart
+
+Competitor Analysis/Similar Campaign
 
