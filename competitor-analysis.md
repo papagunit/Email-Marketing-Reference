@@ -16,5 +16,5 @@ Mailcharts
 
 [ReturnPath](https://returnpath.com/solutions/email-deliverability-optimization/inbox-insight/) offers some competitor insights, such as the subject lines used.
 
-[^1]: Some ESPs support blacklists, which can be automatically generated based on filters you configure, such as a list of competitor's domain names. This way, the contact is kept in your system, but they won't receive any of your selected marketing messages and won't proceed through your marketing funnel or passed to sales. However, they won't know that. To get around a blacklist, just use your personal email address or an anonymous one with a fake moniker.
+[^1]: Some ESPs support blacklists, which can be automatically generated based on filters you configure, such as a list of competitor's domain names. This way, the contact is kept in your system, but they won't receive any of your selected marketing messages and won't proceed through your marketing funnel or be passed to sales. However, they won't know that. To get around a blacklist, just use your personal email address or an anonymous one with a fake moniker.
 
