@@ -16,3 +16,8 @@ As the discussions continue, the idea should move from an abstract concept to so
 
 [Requirements Elicitation](https://en.wikipedia.org/wiki/Requirements_elicitation), or "requirements gathering" comes from the [software engineering](http://searchsoftwarequality.techtarget.com/feature/Use-elicitation-techniques-to-discover-software-requirements) and [business analysis](http://www.modernanalyst.com/Resources/Articles/tabid/115/ID/1427/An-Overview-of-Requirements-Elicitation.aspx) world. However, the basic concepts apply well to email development. In marketing, because there are many ways to go about one campaign, it's important to understand exactly what the executives, customers, and your own team want to see. No, we don't need to have focus groups, surveys, workshops, or analysis \(if you have time for that great, but that should be part of your overall yearly marketing plan\). But what is important is that everyone is on the same page about what will be sent. To make the process go faster, and to reduce the need for additional meetings, it's important to get the following questions answered. In fact, I'll provide my own Word document that includes the following:
 
+* Campaign Name - for internal use
+* Campaign Start/Go Live - What date and time should the campaign be executed on? This sets precedence for when the campaign should be completed by.
+
+
+
