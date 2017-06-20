@@ -82,7 +82,7 @@ Most mature MAPs offer a drag and drop flowchart-like interface to design campai
 
 ## 15. Bug Watching
 
-Sometimes mistakes aren't caught before execution, and your contacts are pointing it out.
+Sometimes mistakes aren't caught before execution, and your contacts are pointing it out. If there's time, go back and fix those mistakes! You might also see that no emails were sent, when they should have been. Platforms are known for having bugs once in awhile where the email just doesn't get sent.
 
 ## 16. Reporting
 
