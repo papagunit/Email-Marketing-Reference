@@ -86,5 +86,5 @@ Sometimes mistakes aren't caught before execution, and your contacts are pointin
 
 ## 16. Reporting
 
-After your campaign has been running for enough time to get some significant data, or it has finished execution, it's time to look at what happened. Your company executives and manager will want to see this!
+After your campaign has been running for enough time to get some significant data, or it has finished execution, it's time to look at what happened. Your company executives and manager will want to see this! Read this chapter for help on Reporting.
 
