@@ -58,19 +58,23 @@ Competitor Analysis/Similar Campaign
 
 Let everyone involved know exactly what you will be working on. If they don't like what they see, it's best to bring it up now, than down the road when you've already spent weeks developing 10 emails, and it's not what they wanted at all. Put the document on a shared drive, or email it out so that everyone has a copy. Most might not read it, but at least you have it on record for when they put up a fight later.
 
-1. Begin Project Management Time Tracking
+## 5. Begin Project Management Time Tracking
 
-2. Email Design/Layout/Wireframe
+## 6. Email Design/Layout/Wireframe
 
-3. Email Design Approval
+## 7. Email Design Approval
 
-4. Email Development
+## 8. Email Development
 
-5. Email Testing
+## 9. Email Testing
 
-6. Segment Creation
+## 10. Segment Creation
 
-7. Campaign Flow Development
+## 11. Campaign Flow Development
 
 Most mature MAPs offer a drag and drop flowchart-like interface to design campaigns. At this point, you can put all the assets and logic together.
+
+## 12. Campaign Flow Testing
+
+
 
