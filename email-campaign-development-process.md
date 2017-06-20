@@ -80,5 +80,11 @@ Most mature MAPs offer a drag and drop flowchart-like interface to design campai
 
 ## 14. Scheduling
 
+## 15. Bug Watching
+
+Sometimes mistakes aren't caught before execution, and your contacts are pointing it out.
+
+## 16. Reporting
+
 
 
