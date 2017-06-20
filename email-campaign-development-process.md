@@ -54,7 +54,7 @@ Flowchart
 
 Competitor Analysis/Similar Campaign
 
-4. Distribution of ERE to Stakeholders
+## 4. Distribution of ERE to Stakeholders
 
-Let everyone involved know exactly what you will be working on. If they don't like what they see, it's best to bring it up now, than down the road when you've already spent weeks developing 10 emails, and it's not what they wanted at all.
+Let everyone involved know exactly what you will be working on. If they don't like what they see, it's best to bring it up now, than down the road when you've already spent weeks developing 10 emails, and it's not what they wanted at all. Put the document on a shared drive, or email it out so that everyone has a copy. Most might not read it, but at least you have it on record for when they put up a fight later.
 
