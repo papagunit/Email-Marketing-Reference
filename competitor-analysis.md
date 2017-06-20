@@ -1,4 +1,4 @@
-You should already know who your competitors are. A great tactic within email marketing is competitor analysis. For you, the great thing about email is that it's easy to get onto someone's mailing list. Unless it's a very small business, truth be told, they won't know you're in the system, much less that you're a competitor[^1]. This makes it easy to see their current customer journey, what emails are being sent out and when, what changes when you continually interact with their emails and site, how often they reach out to you, their go to market strategy, the messaging used, and even how they code their emails.
+You should already know who your competitors are, so a great tactic within email marketing is competitor analysis. For you, the great thing about email is that it's easy to get onto someone's mailing list. Unless it's a very small business, truth be told, they won't know you're in the system, much less that you're a competitor[^1]. This makes it easy to see their current customer journey, what emails are being sent out and when, what changes when you continually interact with their emails and site, how often they reach out to you, their go to market strategy, the messaging used, and even how they code their emails.
 
 Getting onto the mailing list
 
@@ -8,11 +8,11 @@ Ideally it would be nice to see what the customers receive. If you wish to becom
 
 Mailcharts
 
-http://www.edatasource.com/
+[http://www.edatasource.com/](http://www.edatasource.com/)
 
-http://www.emailaptitude.com/competitive-email-intelligence/
+[http://www.emailaptitude.com/competitive-email-intelligence/](http://www.emailaptitude.com/competitive-email-intelligence/)
 
-https://www.owletter.com/
+[https://www.owletter.com/](https://www.owletter.com/)
 
 [ReturnPath](https://returnpath.com/solutions/email-deliverability-optimization/inbox-insight/) offers some competitor insights, such as the subject lines used.
 
