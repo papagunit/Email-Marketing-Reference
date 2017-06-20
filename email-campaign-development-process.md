@@ -19,6 +19,7 @@ As the discussions continue, the idea should move from an abstract concept to so
 * Campaign Name - for internal use
 * Campaign Start/Go Live - What date and time should the campaign be executed on? This gives an idea for when the campaign development should be completed by.
 * Campaign End - When should we stop sending emails? When should we stop collecting metrics on emails sent?
+* Completion Date - When does the whole campaign need to be approved, tested, and completed by? Ideally a couple days before the Start date to give slack or wiggle room for unforeseen roadblocks.
 
 
 
