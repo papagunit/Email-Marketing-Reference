@@ -27,7 +27,7 @@ As the discussions continue, the idea should move from an abstract concept to so
 * Marketing, Transactional, or both - Legally \(CAN-SPAM\), can the emails in this campaign be considered marketing or transactional? This will greatly influence the messaging and layout.
 * Hours/days needed to complete - Give your best guess, but this can be difficult to measure initially. If you're using a project management software, this might be easier.
 * Call to actions - 
-* Measurement of ROI - 
+* Measurement of ROI - How can we justify the costs of this campaign?
 * Potential roadblocks - Off the bat, what concerns do you recognize that could impede the campaign? Let's address them now before we get too invested.
 
 
