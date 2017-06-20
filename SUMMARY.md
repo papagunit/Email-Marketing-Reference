@@ -54,8 +54,8 @@
 * Branding
 * Best Practice
 * [Generally Agreed Upon Templates, Boilerplates, Snippets](generally-agreed-upon-templates-boilerplates-snippets.md)
-* Credits
-* Marketing vs Transactional
+* [Credits](credits.md)
+* [Marketing vs Transactional](marketing-vs-transactional.md)
 * Subject Lines and Preheaders
 * [Email Development vs Web Development](email-development-vs-web-development.md)
 * [Terminology \(Semantics\)](terminology-semantics.md)
