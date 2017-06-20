@@ -11,9 +11,9 @@
 * [Coding an Email](coding-an-email.md)
 * Responsiveness
 * Email Testing
-* [ESP\/MAPs](espmaps.md)
+* [ESP/MAPs](espmaps.md)
 * Certifications
-* Lists\/Segmentation
+* Lists/Segmentation
 * [Call to Actions \(CTAs\)](call-to-actions.md)
 * [Deliverability](deliverability.md)
 * Known Email Bugs
@@ -31,7 +31,7 @@
 * Related Positions
 * Resources
 * [Calculating your Return On Investment](calculating-roi.md)
-* Estimating\/Quoting a Project
+* Estimating/Quoting a Project
 * Requirements Gathering Checklist
 * Key Metrics
 * [Typography](typography.md)
