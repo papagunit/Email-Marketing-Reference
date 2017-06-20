@@ -20,6 +20,7 @@ As the discussions continue, the idea should move from an abstract concept to so
 * Campaign Start/Go Live - What date and time should the campaign be executed on? This gives an idea for when the campaign development should be completed by.
 * Campaign End - When should we stop sending emails? When should we stop collecting metrics on emails sent?
 * Completion Date - When does the whole campaign need to be approved, tested, and completed by? Ideally a couple days before the Start date to give slack or wiggle room for unforeseen roadblocks.
+* Data needed - ESP/MAPs today are very dependent upon data from the CRM for triggering, segmenting, and producing dynamic content. What contact fields are currently available in your ESP today, is it sufficient, and do you need additional data from your CRM or Business Intelligence team? Identifying this need early on can save time, because if the data is not available or reliable, that can halt the campaign as whole, or it can take time to add the field to your platform and do proper testing.
 
 
 
