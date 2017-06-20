@@ -19,18 +19,18 @@ As the discussions continue, the idea should move from an abstract concept to so
 #### General
 
 * **Campaign Name** - for internal use
-* Campaign Start/Go Live - What date and time should the campaign be executed on? This gives an idea for when the campaign development should be completed by.
-* Campaign End - When should we stop sending emails? When should we stop collecting metrics on emails sent?
-* Completion Date - When does the whole campaign need to be approved, tested, and completed by? Ideally a couple days before the Start date to give slack or wiggle room for unforeseen roadblocks.
-* Data needed - ESP/MAPs today are very dependent upon data from the CRM for triggering, segmenting, and producing dynamic content. What contact fields are currently available in your ESP today, is it sufficient, and do you need additional data from your CRM or Business Intelligence team? Identifying this need early on can save time, because if the data is not available or reliable, that can halt the campaign as whole, or it can take time to add the field to your platform and do proper testing.
-* Idea behind campaign - This goes back to step one and two. Why do we need it? What inspired it? How does it fit into our business processes?
-* Campaign goals - In general, what do we want to see as a result of this campaign?
-* How will success be measured - In the end, how will we determine if the campaign was a success? [What metrics will we look at](https://www.klipfolio.com/blog/6-must-have-email-marketing-metrics), and what [KPIs](https://en.wikipedia.org/wiki/Performance_indicator) will we focus on?
-* Marketing, Transactional, or both - Legally \(CAN-SPAM\), can the emails in this campaign be considered marketing or transactional? This will greatly influence the messaging and layout.
-* Hours/days needed to complete - Give your best guess, but this can be difficult to measure initially. If you're using a project management software, this might be easier.
-* Call to actions - What are we asking the end user to do? Give us a call, click a link, fill out a landing page, purchase a specific widget, etc.
-* Measurement of ROI - How can we justify the costs of this campaign?
-* Potential roadblocks - Off the bat, what concerns do you recognize that could impede the campaign? Let's address them now before we get too invested.
+* **Campaign Start/Go Live** - What date and time should the campaign be executed on? This gives an idea for when the campaign development should be completed by.
+* **Campaign End** - When should we stop sending emails? When should we stop collecting metrics on emails sent?
+* **Completion Date** - When does the whole campaign need to be approved, tested, and completed by? Ideally a couple days before the Start date to give slack or wiggle room for unforeseen roadblocks.
+* **Data needed** - ESP/MAPs today are very dependent upon data from the CRM for triggering, segmenting, and producing dynamic content. What contact fields are currently available in your ESP today, is it sufficient, and do you need additional data from your CRM or Business Intelligence team? Identifying this need early on can save time, because if the data is not available or reliable, that can halt the campaign as whole, or it can take time to add the field to your platform and do proper testing.
+* **Idea behind campaign** - This goes back to step one and two. Why do we need it? What inspired it? How does it fit into our business processes?
+* **Campaign goals** - In general, what do we want to see as a result of this campaign?
+* **How will success be measured** - In the end, how will we determine if the campaign was a success? [What metrics will we look at](https://www.klipfolio.com/blog/6-must-have-email-marketing-metrics), and what [KPIs](https://en.wikipedia.org/wiki/Performance_indicator) will we focus on?
+* **Marketing, Transactional, or both** - Legally \(CAN-SPAM\), can the emails in this campaign be considered marketing or transactional? This will greatly influence the messaging and layout.
+* **Hours/days needed to complete** - Give your best guess, but this can be difficult to measure initially. If you're using a project management software, this might be easier.
+* **Call to actions** - What are we asking the end user to do? Give us a call, click a link, fill out a landing page, purchase a specific widget, etc.
+* **Measurement of ROI** - How can we justify the costs of this campaign?
+* **Potential roadblocks** - Off the bat, what concerns do you recognize that could impede the campaign? Let's address them now before we get too invested.
 
 Emails
 
