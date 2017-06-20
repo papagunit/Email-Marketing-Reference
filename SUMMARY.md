@@ -57,12 +57,13 @@
 * Credits
 * Marketing vs Transactional
 * Subject Lines and Preheaders
-* Email Development vs Web Development
+* [Email Development vs Web Development](email-development-vs-web-development.md)
 * [Terminology \(Semantics\)](terminology-semantics.md)
 * Email Address Validation
 * [Technical Specifications](technical-specifications.md)
 * [Relevant IETF RFCs](relevant-ietf-rfcs.md)
 * [Other Technical Specifications](other-technical-specifications.md)
 * Email Engagement Tracking
-* Email Link Tracking and UTMs
+* [Email Link Tracking and UTMs](email-link-tracking-and-utms.md)
+* [Email Campaign Development Process](email-campaign-development-process.md)
 
