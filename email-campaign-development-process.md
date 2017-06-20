@@ -26,6 +26,9 @@ As the discussions continue, the idea should move from an abstract concept to so
 * How will success be measured - In the end, how will we determine if the campaign was a success? [What metrics will we look at](https://www.klipfolio.com/blog/6-must-have-email-marketing-metrics), and what [KPIs](https://en.wikipedia.org/wiki/Performance_indicator) will we focus on?
 * Marketing, Transactional, or both - Legally \(CAN-SPAM\), can the emails in this campaign be considered marketing or transactional? This will greatly influence the messaging and layout.
 * Hours/days needed to complete - Give your best guess, but this can be difficult to measure initially. If you're using a project management software, this might be easier.
+* Call to actions - 
+* Measurement of ROI - 
+* Potential roadblocks - Off the bat, what concerns do you recognize that could impede the campaign? Let's address them now before we get too invested.
 
 
 
