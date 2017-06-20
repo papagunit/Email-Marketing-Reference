@@ -14,7 +14,7 @@ As the discussions continue, the idea should move from an abstract concept to so
 
 ## 3. Draft The Requirements \(Email Requirements Elicitation/ERE\)
 
-Requirements Elicitation, or "requirements gathering" comes from the software engineering and business analysis world. However, the basic concepts apply well to email development. In marketing, because there are many ways to go about one campaign, it's important to understand exactly what the executives, customers, and your own team want to see. No, we don't need to have focus groups, surveys, workshops, or analysis. But what is important is that everyone is on the same page about what will be sent. To make the process go faster, and to reduce the need for additional meetings, it's important to get the following questions answered:
+[Requirements Elicitation](https://en.wikipedia.org/wiki/Requirements_elicitation), or "requirements gathering" comes from the software engineering and [business analysis](http://www.modernanalyst.com/Resources/Articles/tabid/115/ID/1427/An-Overview-of-Requirements-Elicitation.aspx) world. However, the basic concepts apply well to email development. In marketing, because there are many ways to go about one campaign, it's important to understand exactly what the executives, customers, and your own team want to see. No, we don't need to have focus groups, surveys, workshops, or analysis. But what is important is that everyone is on the same page about what will be sent. To make the process go faster, and to reduce the need for additional meetings, it's important to get the following questions answered. In fact, I'll provide my own Word document that includes the following:
 
 
 
