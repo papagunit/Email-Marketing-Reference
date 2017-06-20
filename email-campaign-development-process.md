@@ -12,7 +12,7 @@ If you're a team of one, you might have a brainstorming discussion with yourself
 
 As the discussions continue, the idea should move from an abstract concept to something more concrete. You're able to discretely demonstrate how many emails you will need, what you generally want them to say, what you want them to look like, who should receive them, and at what point in the customer journey they should receive them.
 
-3. Draft The Requirements \(Email Requirements Elicitation\)
+## 3. Draft The Requirements \(Email Requirements Elicitation/ERE\)
 
-Requirements Elicitation, or "requirements gathering" comes from the software engineering and business analysis world. However, the basic concepts apply well to email development. In marketing, it's important to understand exactly what the executives, customers, and your own team want to see,.
+Requirements Elicitation, or "requirements gathering" comes from the software engineering and business analysis world. However, the basic concepts apply well to email development. In marketing, because there are many ways to go about one campaign, it's important to understand exactly what the executives, customers, and your own team want to see.
 
