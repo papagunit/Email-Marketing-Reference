@@ -66,4 +66,5 @@
 * Email Engagement Tracking
 * [Email Link Tracking and UTMs](email-link-tracking-and-utms.md)
 * [Email Campaign Development Process](email-campaign-development-process.md)
+* [Competitor Analysis](competitor-analysis.md)
 
