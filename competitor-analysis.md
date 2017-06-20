@@ -2,7 +2,9 @@ A dirty, untold trick within email marketing is competitor analysis. For you, th
 
 Getting onto the mailing list
 
-Most businesses are eager for you to dish out your email address, often in the form of popups or walled gardens. Look around their website for a newsletter sign up, or try finding a landing page of some form, even off of Google paid search.
+Most businesses are eager for you to dish out your email address, often in the form of popups or walled gardens. Look around their website for a newsletter sign up, or try finding a landing page of some form, even off of Google paid search. This is the easiest way to see how they message their net new leads, and you'll probably continue to receive their nurture emails. If you have the time, you might want to use multiple email addresses on different machines \(or clear cookies\) and input different user info, such as firmographics or interests, and see what messaging they serve up to your segment.
+
+Ideally it would be nice to see what the customers receive. If you wish to become a customer, then that's not a problem. However, sometimes the product or service just isn't needed or it is way out of your price range. Fortunately, there are a handful of services out there that might give you visibility into what emails someone is sending.
 
 [^1]: Some ESPs support blacklists, which can be automatically generated based on filters you implement, such as competitor's domain names. This way, the contact is kept in your system, but they won't receive any of your marketing messages and are effectively unsubscribed. However, they won't know that. To get around a blacklist, just use your personal email address or an anonymous one with a fake moniker.
 
