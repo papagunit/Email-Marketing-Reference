@@ -14,9 +14,13 @@ Mailcharts
 
 [https://www.owletter.com/](https://www.owletter.com/)
 
-http://www.mintel.com/mintel-comperemedia
+[http://www.mintel.com/mintel-comperemedia](http://www.mintel.com/mintel-comperemedia)
 
 [ReturnPath](https://returnpath.com/solutions/email-deliverability-optimization/inbox-insight/) offers some competitor insights, such as the subject lines used.
+
+
+
+https://www.intechnic.com/blog/a-5-step-guide-to-conducting-an-email-marketing-competitor-analysis/
 
 [^1]: Some ESPs support blacklists, which can be automatically generated based on filters you configure, such as a list of competitor's domain names. This way, the contact is kept in your system, but they won't receive any of your selected marketing messages and won't proceed through your marketing funnel or be passed to sales. However, they won't know that. To get around a blacklist, just use your personal email address or an anonymous one with a fake moniker.
 
