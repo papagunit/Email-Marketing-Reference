@@ -12,7 +12,5 @@ Ad-hoc
 
 ---
 
-http://messagegears.com/blog/7-behavior-triggered-emails-every-marketer-sending/
-
-
+[http://messagegears.com/blog/7-behavior-triggered-emails-every-marketer-sending/](http://messagegears.com/blog/7-behavior-triggered-emails-every-marketer-sending/)
 
