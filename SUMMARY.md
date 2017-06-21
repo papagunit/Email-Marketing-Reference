@@ -69,4 +69,5 @@
 * [Competitor Analysis](competitor-analysis.md)
 * [Email Campaign Ideas](email-campaign-ideas.md)
 * [Languages and Localization](languages-and-localization.md)
+* [Copywriting](copywriting.md)
 
