@@ -68,4 +68,5 @@
 * [Email Campaign Development Process](email-campaign-development-process.md)
 * [Competitor Analysis](competitor-analysis.md)
 * [Email Campaign Ideas](email-campaign-ideas.md)
+* Languages and Localization
 
