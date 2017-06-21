@@ -12,6 +12,8 @@ compressimage.toolur.com/
 
 [http://compressnow.com/](http://compressnow.com/) - Max 9mb
 
+https://imageoptim.com/api
+
 ## Dealing with GIFs
 
 
