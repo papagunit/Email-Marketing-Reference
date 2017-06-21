@@ -37,7 +37,7 @@
 * [Typography](typography.md)
 * A\/B Testing
 * Subscription methods
-* Buttons
+* [Buttons](buttons.md)
 * [Outside the Scope of this guide](outside-the-scope-of-this-guide.md)
 * Development Resources\/Assistance
 * Email Clients
@@ -48,7 +48,7 @@
 * Elements
 * [GIFs](interactivity-gifs.md)
 * Project Management
-* ESP Specific Code
+* [ESP Specific Code](esp-specific-code.md)
 * [Inlining CSS](inlining-css.md)
 * Rules of Thumb
 * Branding
