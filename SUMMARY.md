@@ -5,7 +5,7 @@
 * [History](chapter1.md)
 * [Technical Protocols](protocols.md)
 * Laws
-* Spam regulations
+* [Spam regulations](spam-regulations.md)
 * [Designing an Email](designing-an-email.md)
 * [Creating a Template](creating-a-template.md)
 * [Coding an Email](coding-an-email.md)
@@ -68,5 +68,5 @@
 * [Email Campaign Development Process](email-campaign-development-process.md)
 * [Competitor Analysis](competitor-analysis.md)
 * [Email Campaign Ideas](email-campaign-ideas.md)
-* Languages and Localization
+* [Languages and Localization](languages-and-localization.md)
 
