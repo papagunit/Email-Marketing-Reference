@@ -70,4 +70,5 @@
 * [Email Campaign Ideas](email-campaign-ideas.md)
 * [Languages and Localization](languages-and-localization.md)
 * [Copywriting](copywriting.md)
+* [Sales Email Signatures](sales-email-signatures.md)
 
