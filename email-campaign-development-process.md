@@ -2,7 +2,7 @@
 
 Here I will try to outline a general series of steps that marketers should follow when designing, developing, and executing a marketing campaign, with the email channel as a main focus. Of course, this must be considered as a part within the whole marketing department, but this is what matters to those who are creating the emails. Following this process will reduce the mistakes made, keep the campaign completion date on track, and save time by gathering all requirements early.
 
-![](/assets/Campaign Development Process.png)
+[![](/assets/Campaign Development Process.png)](https://papagunit.gitbooks.io/the-comprehensive-email-marketing-reference/content/assets/Campaign%20Development%20Process.png)
 
 ## 1. Campaign Need Identification
 
@@ -88,21 +88,21 @@ I use the following template for each unique piece of copy used throughout the c
 
 Copy \#
 
-Email/LP Used in - 
+Email/LP Used in -
 
-Stakeholder Assigned To - 
+Stakeholder Assigned To -
 
-Thesis - 
+Thesis -
 
-Length/Estimated Word Count - 
+Length/Estimated Word Count -
 
-Tone/Style - 
+Tone/Style -
 
-Turnaround Time - 
+Turnaround Time -
 
-Deadline - 
+Deadline -
 
-Content - 
+Content -
 
 Graphic Elements
 
