@@ -86,23 +86,23 @@ I use the following template for each email in the campaign.
 
 I use the following template for each unique piece of copy used throughout the campaign.
 
-Copy \#
+**Copy \#**
 
-Email/LP Used in -
+**Email/LP Used in** -
 
-Stakeholder Assigned To -
+**Stakeholder Assigned To** -
 
-Thesis -
+**Thesis** -
 
-Length/Estimated Word Count -
+**Length/Estimated Word Count** -
 
-Tone/Style -
+**Tone/Style** -
 
-Turnaround Time -
+**Turnaround Time** -
 
-Deadline -
+**Deadline** -
 
-Content -
+**Content **-
 
 ### Graphic Elements
 
@@ -136,15 +136,17 @@ Do you use any UTM or other tracking on your links from the email? Detail them h
 
 What ways do we wish to improve on this in the future? When do we want to revisit this campaign for improvement? Letting old campaigns go unchecked may result in conflicting messaging or continuing outdated business processes \(i.e. "We don't do that anymore!"\).
 
-Reports and Analysis, Outcomes, Performance Review - Post Production
+### Reports and Analysis, Outcomes, Performance Review - Post Production
 
 What kind of reports need to be put together \(PPT, Excel, dashboard\)? What metrics/KPIs need to be included? When are they due? When are updates due? Who should the reports be prepared for?
 
-Flowchart
+### Flowchart
 
-I love creating flowcharts to show to outside stakeholders, espeically in presentations. You can go as high level, or detailed as you want, present in a universal way that doesn't require the viewer to understand the ESP specific notations, and include any other outside interactions. 
+I love creating flowcharts to show to outside stakeholders, espeically in presentations. You can go as high level, or detailed as you want, present in a universal way that doesn't require the viewer to understand the ESP specific notations, and include any other outside interactions \(data sources, user behaviors, etc\).
 
-Competitor Analysis/Similar Campaign
+### Competitor Analysis/Similar Campaign
+
+Do you have screenshots of similar emails or landing pages that inspired you?
 
 ## 4. Distribution of ERE to Stakeholders
 
