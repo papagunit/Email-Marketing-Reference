@@ -18,5 +18,7 @@ Pages I'm currently working on  \(as of June 26, 2017\):
 
 [Complete Table of Contents](/SUMMARY.md)
 
+Q: Why are most of the pages empty?
 
+A: They act as placeholders for future ideas I wish to expound. I only work on this in my spare time.
 
