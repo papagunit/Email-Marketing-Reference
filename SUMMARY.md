@@ -5,8 +5,8 @@
 * [History](chapter1.md)
 * [Technical Protocols](protocols.md)
 * [Laws](laws.md)
-* [Spam regulations](spam-regulations.md)
 * [Designing an Email](designing-an-email.md)
+* [Spam regulations](spam-regulations.md)
 * [Creating a Template](creating-a-template.md)
 * [Coding an Email](coding-an-email.md)
 * Responsiveness
