@@ -50,7 +50,7 @@
 * Project Management
 * [ESP Specific Code](esp-specific-code.md)
 * [Inlining CSS](inlining-css.md)
-* Rules of Thumb
+* [Rules of Thumb](rules-of-thumb.md)
 * Branding
 * Best Practice
 * [Generally Agreed Upon Templates, Boilerplates, Snippets](generally-agreed-upon-templates-boilerplates-snippets.md)

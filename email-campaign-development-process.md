@@ -30,9 +30,72 @@ As the discussions continue, the idea should move from an abstract concept to so
 * **Hours/days needed to complete** - Give your best guess, but this can be difficult to measure initially. If you're using a project management software, this might be easier.
 * **Call to actions** - What are we asking the end user to do? Give us a call, click a link, fill out a landing page, purchase a specific widget, etc.
 * **Measurement of ROI** - How can we justify the costs of this campaign?
-* **Potential roadblocks** - Off the bat, what concerns do you recognize that could impede the campaign? Let's address them now before we get too invested.
+* **Potential roadblocks** - Off the bat, what concerns do you foresee that could impede the campaign? Let's address them now before we get too invested.
+* Target audience - 
+* Frequency \(One time, multiple batches, or continuous/triggered\) - 
+* Time of day email can be sent - 
+* Number of unique emails to be created - 
+* Number of email templates used - 
+* Number of new email templates needed - 
+* Use A/B Testing \(yes/no\) - 
+* A/B Testing elements - What specifically are we looking to test \(subject line, body content, template, time of day, day of week\)?
+* A/B Testing structure - What percentage of the audience should receive this? What criteria determines a winner?
+* End A/B testing - When do we wish to declare a winner? After what engagement level \(clicks, opens, form fills, purchases\) or time has passed?
+* Dynamic content or lookup tables - 
+* External assets used in conjunction - 
+* Existing graphics used - 
+* New graphics needed - 
+* Amount of copy needed - 
+* Number of unique Toll Free Numbers needed[^1] - 
+* Legal Approval \(yes/no/pending/not needed\) - 
+* Copy stakeholders - 
+* Data stakeholders - 
+* Performance stakeholders - 
+* Graphic stakeholders - 
+* Legal stakeholders - 
+* Other stakeholders - 
 
 Emails
+
+I use the following template for each email in the campaign.
+
+Email \#
+
+Email Name - 
+
+Main Messages/Key Points to Convey - 
+
+Internal Name - 
+
+Email Group - 
+
+Template used - 
+
+From Name - 
+
+From Email - 
+
+Subject Line - 
+
+Pre Header - 
+
+Copy Elements used - 
+
+Graphics - 
+
+CTA - 
+
+Phone Number - 
+
+Landing Pages Used - 
+
+Links - 
+
+| Text | Link |
+| :--- | :--- |
+|  |  |
+
+
 
 Copy Elements
 
@@ -87,4 +150,6 @@ Sometimes mistakes aren't caught before execution, and your contacts are pointin
 ## 16. Reporting
 
 After your campaign has been running for enough time to get some significant data, or it has finished execution, it's time to look at what happened. Your company executives and manager will want to see this! Read this chapter for help on Reporting.
+
+[^1]: I currently work for an organization where we track every call and attribute a specific number to each marketing channel and collateral. We can determine where the user found the phone number. Internally we would call them TFNs. Does your organization do this?
 
