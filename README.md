@@ -12,9 +12,9 @@ Thanks!
 
 Pages I'm currently working on  \(as of June 26, 2017\):
 
-* [Campaign Development Process](https://papagunit.gitbooks.io/the-comprehensive-email-marketing-reference/content/email-campaign-development-process.html)
-* [Competitor Analysis](https://papagunit.gitbooks.io/the-comprehensive-email-marketing-reference/content/competitor-analysis.html)
-* [Terminology](https://papagunit.gitbooks.io/the-comprehensive-email-marketing-reference/content/terminology-semantics.html)
+* [Campaign Development Process](/email-campaign-development-process.md)
+* [Competitor Analysis](/competitor-analysis.md)
+* [Terminology](/terminology-semantics.md)
 
 [Complete Table of Contents](/SUMMARY.md)
 
