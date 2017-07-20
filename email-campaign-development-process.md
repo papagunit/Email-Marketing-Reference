@@ -2,7 +2,7 @@
 
 Here I will try to outline a general series of steps that marketers should follow when designing, developing, and executing a marketing campaign, with the email channel as a main focus. Of course, this must be considered as a part within the whole marketing department, but this is what matters to those who are creating the emails. Following this process will reduce the mistakes made, keep the campaign completion date on track, and save time by gathering all requirements early.
 
-[![](/assets/Campaign Development Process.png)](https://papagunit.gitbooks.io/the-comprehensive-email-marketing-reference/content/assets/Campaign%20Development%20Process.png)
+###### [![](/assets/Campaign Development Process.png)](https://papagunit.gitbooks.io/the-comprehensive-email-marketing-reference/content/assets/Campaign Development Process.png)A diagram to visualize the process.
 
 ## 1. Campaign Need Identification
 
@@ -104,21 +104,45 @@ Deadline -
 
 Content -
 
-Graphic Elements
+### Graphic Elements
 
-Segmentations
+| Used in | Graphic file name |
+| :--- | :--- |
+|  |  |
 
-Landing Pages
+### Segmentations
 
-Phone Numbers
+| \# | Name | Criteria |
+| :--- | :--- | :--- |
+|  |  |  |
 
-UTM/Tracking Parameters
+### Landing Pages
 
-Future Improvement Expectations
+| Name | Linked from | Content Elements used | Notable fields | Phone Number | Media Code | Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Internal name | Where is this accessible from? \(SEM, email, website, etc\) | From the Copy section, which elements are used on this page | If page has a form, what fields should be on it? | If you have one, what phone number will be on this page? | Some type of unique tracking identifier | Link to the actual page |
+
+### Phone Numbers
+
+| Number | Used In | Media Code |
+| :--- | :--- | :--- |
+|  |  |  |
+
+### UTM/Tracking Parameters
+
+Do you use any UTM or other tracking on your links from the email? Detail them here.
+
+### Future Improvement Expectations
+
+What ways do we wish to improve on this in the future? When do we want to revisit this campaign for improvement? Letting old campaigns go unchecked may result in conflicting messaging or continuing outdated business processes \(i.e. "We don't do that anymore!"\).
 
 Reports and Analysis, Outcomes, Performance Review - Post Production
 
+What kind of reports need to be put together \(PPT, Excel, dashboard\)? What metrics/KPIs need to be included? When are they due? When are updates due? Who should the reports be prepared for?
+
 Flowchart
+
+I love creating flowcharts to show to outside stakeholders, espeically in presentations. You can go as high level, or detailed as you want, present in a universal way that doesn't require the viewer to understand the ESP specific notations, and include any other outside interactions. 
 
 Competitor Analysis/Similar Campaign
 
