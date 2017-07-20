@@ -4,14 +4,14 @@
 * [Prerequisites](prerequisites.md)
 * [History](chapter1.md)
 * [Technical Protocols](protocols.md)
-* Laws
+* [Laws](laws.md)
 * [Spam regulations](spam-regulations.md)
 * [Designing an Email](designing-an-email.md)
 * [Creating a Template](creating-a-template.md)
 * [Coding an Email](coding-an-email.md)
 * Responsiveness
-* Email Testing
 * [ESP/MAPs](espmaps.md)
+* Email Testing
 * Certifications
 * Lists/Segmentation
 * [Call to Actions \(CTAs\)](call-to-actions.md)
