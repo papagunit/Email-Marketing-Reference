@@ -56,7 +56,7 @@
 * [Generally Agreed Upon Templates, Boilerplates, Snippets](generally-agreed-upon-templates-boilerplates-snippets.md)
 * [Credits](credits.md)
 * [Marketing vs Transactional](marketing-vs-transactional.md)
-* Subject Lines and Preheaders
+* [Subject Lines and Preheaders](subject-lines-and-preheaders.md)
 * [Email Development vs Web Development](email-development-vs-web-development.md)
 * [Terminology \(Semantics\)](terminology-semantics.md)
 * [Email Address Validation](email-address-validation.md)
