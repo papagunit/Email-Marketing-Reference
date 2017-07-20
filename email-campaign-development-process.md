@@ -33,39 +33,39 @@ As the discussions continue, the idea should move from an abstract concept to so
 * **Call to actions** - What are we asking the end user to do? Give us a call, click a link, fill out a landing page, purchase a specific widget, etc.
 * **Measurement of ROI** - How can we justify the costs of this campaign?
 * **Potential roadblocks** - Off the bat, what concerns do you foresee that could impede the campaign? Let's address them now before we get too invested.
-* **Target audience** - 
-* **Frequency \(One time, multiple batches, or continuous/triggered\)** - 
-* **Time of day email can be sent** - 
-* **Number of unique emails to be created **- 
-* **Number of email templates used** - 
-* **Number of new email templates needed** - 
-* **Use A/B Testing \(yes/no\)** - 
+* **Target audience** - What brand is this campaign for? Customers or leads? Certain region?
+* **Frequency \(One time, multiple batches, or continuous/triggered\)** - A campaign is typically one of these.
+* **Time of day email can be sent** - Is there a specific time range in which users should receive these emails?
+* **Number of unique emails to be created **- This helps estimate how much work will be involved.
+* **Number of email templates used** - This might be useful for some. Gives you an idea of how much variation and dependencies there might be.
+* **Number of new email templates needed** - Will this campaign require a completely new email design?
+* **Use A/B Testing \(yes/no\)** - Should we A/B test any part of this campaign?
 * **A/B Testing elements** - What specifically are we looking to test \(subject line, body content, template, time of day, day of week\)?
 * **A/B Testing structure** - What percentage of the audience should receive this? What criteria determines a winner?
 * **End A/B testing** - When do we wish to declare a winner? After what engagement level \(clicks, opens, form fills, purchases\) or time has passed?
-* **Dynamic content or lookup tables** - 
-* **External assets used in conjunction** - 
-* **Existing graphics used** - 
-* **New graphics needed** - 
-* **Amount of copy needed** - 
-* **Number of unique Toll Free Numbers needed**[^1] - 
-* **Legal Approval \(yes/no/pending/not needed\)** - 
-* **Copy stakeholders** - 
-* **Data stakeholders** - 
-* **Performance stakeholders** - 
-* **Graphic stakeholders** - 
-* **Legal stakeholders** - 
-* **Other stakeholders** - 
+* **Dynamic content or lookup tables** - Is there any dynamic content we wish to use and need to pre populate, or any lookup tables to import and test?
+* **External assets used in conjunction** - Files, blog posts, landing pages?
+* **Existing graphics used** - Do we already have stock images or icons in our library that will be used in these emails?
+* **New graphics needed** - Do we need to find specific images or have a graphic created specifically for this campaign?
+* **Amount of copy needed** - Rough estimate to gauge how much turnaround time to give copywriters.
+* **Number of unique Toll Free Numbers needed**[^1] - How many different unique numbers do we need to have created?
+* **Legal Approval \(yes/no/pending/not needed\)** - What's the current approval status from legal?
+* **Copy stakeholders** - Who will be in charge of the copy and approval?
+* **Data stakeholders** - Who will get us the data that we need? In particular for segmentation, triggering, and lookup tables.
+* **Performance stakeholders** - Who is interested in how well this campaign performs? Usually managers and execs. List them here so you remember to CC them when you send out your report.
+* **Graphic stakeholders** - Who will find the new graphics that you listed above?
+* **Legal stakeholders** - Who needs to approve the campaign from a legal stance?
+* **Other stakeholders** - Anyone else genuinely interested in this campaign for some other reason?
 
 ### Emails
 
 I use the following template for each email in the campaign.
 
-* **Email \#**
-* **Email Name** -
-* **Main Messages/Key Points to Convey **-
-* **Internal Name** -
-* **Email Group** -
+* **Email \#** - A simple number you can attribute to each email, so instead of referring to it by a long name, you go back to this document and say "look at email X".
+* **Email Name** - Optional, if you want something less formal than the internal name.
+* **Main Messages/Key Points to Convey **- What do we want the user to know after they have read the email?
+* **Internal Name** - Descriptive internal name, usually what is used within the ESP. Best to follow some naming convention.
+* **Email Group** - More [specific to Eloqua](http://docs.oracle.com/cloud/latest/marketingcs_gs/OMCAA/index.html#Help/EmailGroups/Tasks/CreatingEmailGroups.htm), but what category does this email fit under? Probably the closest equivalent in [Marketo would be Workspaces](http://docs.marketo.com/display/public/DOCS/Create+a+New+Workspace).
 * **Template used **-
 * **From Name** -
 * **From Email **-

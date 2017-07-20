@@ -71,4 +71,5 @@
 * [Languages and Localization](languages-and-localization.md)
 * [Copywriting](copywriting.md)
 * [Sales Email Signatures](sales-email-signatures.md)
+* [Naming Conventions](naming-conventions.md)
 
