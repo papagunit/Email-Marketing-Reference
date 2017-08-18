@@ -72,4 +72,5 @@
 * [Copywriting](copywriting.md)
 * [Sales Email Signatures](sales-email-signatures.md)
 * [Naming Conventions](naming-conventions.md)
+* [Superscripting](superscripting.md)
 
